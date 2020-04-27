@@ -4,9 +4,9 @@
 
 One of the most exciting areas in all of data science right now is wearable computing. Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users.
 
-The data set used to carry out the present project belongs as a part of the study &quot;Human Activity Recognition Using Smartphones Data Set&quot; [^MiNota].
+The data set used to carry out the present project belongs as a part of the study &quot;Human Activity Recognition Using Smartphones Data Set&quot;[^1]
 
-[^MiNota]: Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. A Public Domain Dataset for Human Activity Recognition Using Smartphones. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013
+[^1]: Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. A Public Domain Dataset for Human Activity Recognition Using Smartphones. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013
 
 Detailed description on the study, as well as corresponding data set, can be found on the following website:
 
