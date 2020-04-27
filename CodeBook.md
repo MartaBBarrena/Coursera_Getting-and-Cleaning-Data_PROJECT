@@ -14,9 +14,9 @@ To summarize, it could be said that the project dataset correspond to a collecti
 
 The obtained dataset appears randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data.
 
-**Variables description**
+## **Variables description**
 
-***Identifiers***
+### Identifiers
 
 - subjectID: numeric code which identifies the code which links the class labels with their activity name (1-30).
 - activityID: numeric code which links the class labels with their activity name (1-6)
@@ -25,7 +25,7 @@ Activity
 
 - activityNAME: name of the activity performed
 
-Measurements
+### Measurements
 
 - tBodyAccMeanX
 - tBodyAccMeanY
@@ -107,7 +107,7 @@ Measurements
 - fBodyBodyGyroJerkMagStd
 - fBodyBodyGyroJerkMagMeanFreq
 
-**Tranformations performed**
+## **Tranformations performed**
 
 The original dataset was transformed by mean of the different steps required in order to complete the assignment.
 
