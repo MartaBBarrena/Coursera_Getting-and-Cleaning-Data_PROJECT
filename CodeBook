@@ -109,8 +109,6 @@ Measurements
 - fBodyBodyGyroJerkMagStd
 - fBodyBodyGyroJerkMagMeanFreq
 
--
-
 **Tranformations performed**
 
 The original dataset was transformed by mean of the different steps required in order to complete the assignment.
