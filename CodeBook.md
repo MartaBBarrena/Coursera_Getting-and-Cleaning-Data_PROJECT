@@ -14,8 +14,7 @@ To summarize, it could be said that the project dataset correspond to a collecti
 
 The obtained dataset appears randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data.
 
-## **Data description**
-# **Variables description**
+## **Variables description**
 
 ### Identifiers
 
