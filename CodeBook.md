@@ -4,7 +4,7 @@
 
 One of the most exciting areas in all of data science right now is wearable computing. Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users.
 
-The data set used to carry out the present project belongs as a part of the study &quot;Human Activity Recognition Using Smartphones Data ^1^
+The data set used to carry out the present project belongs as a part of the study &quot;Human Activity Recognition Using Smartphones Data^3^ 
 
 Detailed description on the study, as well as corresponding data set, can be found on the following website:
 
