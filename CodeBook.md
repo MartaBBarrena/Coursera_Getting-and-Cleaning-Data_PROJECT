@@ -21,7 +21,7 @@ The obtained dataset appears randomly partitioned into two sets, where 70% of th
 - subjectID: numeric code which identifies the code which links the class labels with their activity name (1-30).
 - activityID: numeric code which links the class labels with their activity name (1-6)
 
-Activity
+### Activity
 
 - activityNAME: name of the activity performed
 
